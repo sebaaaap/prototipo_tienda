@@ -20,13 +20,16 @@
 
 
 ## ⚠️ Posibles problemas
-MongoDB: necesito la IP o avisarme para dar acceso 0.0.0.0/0.
-OAuth de Google: podría requerir configuración adicional
+1. MongoDB: necesito la IP o avisarme para dar acceso 0.0.0.0/0.
+
+2. OAuth de Google: podría requerir configuración adicional
+
+3. Puertos, verificar que en su maquina este disponible los puertos 3000 y 8000
 
 
 ## Como voy segun mis obejtivos?¿ 
  1. las pasarelas vamos de apoco entiendo el flujo de webpay plus, respecto a mercadopago me vi la teoria falta ensuciarme las manos con codigo...
  2. Voy bien con google supongo, me falta facebook creo que sera muy similar y con jwt-cookies super bien
- 3. algun dia jsjsk xd gpt ayuda bastante con la ui
+ 3. gpt sigue haciendo grandes aportes aqui, yo tengo las ideas pero me ayuda bastante a pasarlo a front
 
  
